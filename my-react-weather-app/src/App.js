@@ -10,6 +10,10 @@ function App() {
         <h1> React Weather App </h1>
         <Weather />
       </header>
+      <footer> This project was coded by Precious Ohasonu and is
+        <a href="https://github.com/Preshyo/my-react-weather-app"
+          target="_blank"> open-sourced on GitHub</a>
+      </footer>
     </div>
   );
 }
